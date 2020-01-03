@@ -1,0 +1,105 @@
+﻿  Source.cpp
+D:\C\Project1\Project\Project1\Source.cpp(154,47): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C\Project1\Project\Project1\Source.cpp(257,15): warning C4244: '正在初始化': 將 '_Tp' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+D:\C\Project1\Project\Project1\Source.cpp(258,15): warning C4244: '正在初始化': 將 '_Tp' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+D:\C\Project1\Project\Project1\Source.cpp(263,51): warning C4244: '引數': 將 '_Tp' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\C\Project1\Project\Project1\Source.cpp(263,33): warning C4244: '引數': 將 '_Tp' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\C\Project1\Project\Project1\Source.cpp(278,11): warning C4244: '正在初始化': 將 '_Tp' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+D:\C\Project1\Project\Project1\Source.cpp(279,11): warning C4244: '正在初始化': 將 '_Tp' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+D:\C\Project1\Project\Project1\Source.cpp(282,41): warning C4244: '=': 將 '_Tp' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+D:\C\Project1\Project\Project1\Source.cpp(283,41): warning C4244: '=': 將 '_Tp' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+D:\C\Project1\Project\Project1\Source.cpp(428,107): warning C4244: '引數': 將 '_Tp' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\C\Project1\Project\Project1\Source.cpp(428,49): warning C4244: '引數': 將 '_Tp' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\C\Project1\Project\Project1\Source.cpp(430,105): warning C4244: '引數': 將 '_Tp' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\C\Project1\Project\Project1\Source.cpp(430,76): warning C4244: '引數': 將 '_Tp' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\C\Project1\Project\Project1\Source.cpp(431,102): warning C4244: '引數': 將 '_Tp' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\C\Project1\Project\Project1\Source.cpp(431,73): warning C4244: '引數': 將 '_Tp' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+  Project1.vcxproj -> D:\C\Project1\Project\x64\Debug\Project1.exe
